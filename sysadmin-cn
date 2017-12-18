@@ -1,0 +1,160 @@
+操作系统：Centos,Ubuntu,Redhat,
+网站服务：nginx,apache,php,tomcat,IIS
+数据  库：MySQL,MariaDB,Grara,PostgreSQL
+DB中间件：
+代理相关：lvs,keepalived,haproxy,nginx,heartbeat
+网站缓存：squid,nginx,varnish
+NOSQL库：Redis,Memcached,MongoDB,HBase,Cassandra,CouchDB
+存储相关：Nfs,Ceph,
+版本管理：svn,git
+监控报警：zabbix,grafara+inforDB
+域名解析：bind,
+同步软件：scp,rsync,inotify,sersync,drbd,syncthing
+批量管理：Ansible,Saltstack,puppet
+虚拟  化：kvm,xen
+云计  算：openstack,docker,cloudstack
+统一认证：openldap
+队列工具：RabbitMQ,
+打包发布：jenkins
+测试软件：ab,JMeter,Webbench,LoadRunner,http_load,tcpcopy
+带宽测试：smokeping
+性能测试：dd, fio(IOPS测试),iozone(磁盘测试),iometer
+日志相关：flume,ELK(Elasticsearch+Logstash+Kibana)
+无人值守：kickstart,cobbler
+软件安装：rpm,yum（设计rpm包定制及yum仓库构建）
+大数据：HDFS,Hive,Hbase,Zookeeper,Pig,Spark,Mahout,flume,sqoop
+开发语言：Shell,Python,
+
+## 备份
+backup exec (商業)
+
+## 云计算
+CloudStack：创建，管理和部署基础云服务的云计算软件。官网
+Cobbler：Cobbler是一个Linux安装服务器，允许快速地构建网络安装环境。官网
+Mesos：开发和运行能效高的分布式系统。官网
+OpenNebula：一个用于系统管理员和研发运维的用户驱动的云管理平台。官网
+OpenStack：构建私有和开放云的开源软件。官网
+OpenShift origin: 构建PAAS平台
+
+云存储
+nextCloud：提供你的文件的统一访问，通过web，你的电脑和你的移动设备。官网
+ownCloud：提供你的文件的统一访问，通过web，你的电脑和你的移动设备。官网
+Seafile：另一个开源的云存储解决方案。官网
+Syncthing：一个用于私有，加密和身份认证数据的开源系统。官网
+
+配置管理数据库
+iTop：一个完全开源的，ITIL,基于web的服务管理工具。官网
+Ralph：用于大型数据中心或较小本地网络的资产管理，DICM和CMDB系统。官网
+
+配置管理
+Ansible：Python编写的，通过SSH管理节点。官网
+Chef：Rbuy和Erlang编写，使用纯RubyDSL。官网
+Puppet：Ruby编写，使用Puppet声明语言或Rbuy DSL。官网
+Salt：Python编写。官网
+
+
+持续继承和持续部署
+GitLab CI：基于rbuy。他们也提供GitLab用于管理git存储库。官网
+Jenkins：一个可扩展的开源持续集成服务器。官网
+
+分布式文件系统
+Ceph：分布式对象存储和文件系统。官网
+DRBD：分布式块设备复制。官网
+GlusterFS：可扩展，网络附加存储文件系统。官网
+HDFS：Java编写的，用于Hadoop框架的分布式、可伸缩、可移植文件系统。官网
+Lustre：一种并行分布式文件系统,一般用于大规模集群计算。官网
+MooseFS：容错、网络分布式文件系统。官网
+MogileFS：应用程序级别、网络分布式文件系统。官网
+
+DNS
+Bind：最广泛使用的域名服务软件。官网
+Designate：DNS REST API,支持多种DNS服务器的后端。官网
+
+IT资产管理
+GLPI：带有额外管理接口的信息资源管理器。官网
+OCS Inventory NG：允许用户清算IT资产。官网
+Ralph：针对大型数据中心系统以及小型局域网网络的资产管理、DCIM和CMDB。官网
+
+LDAP
+OpenLDAP：由OpenLDAP项目开发。官网
+
+日志管理
+Elasticsearch：一个基于Lucene的文档存储，主要用于日志索引、存储和分析。官网
+Fluentd：日志收集和发出。官网
+Flume：分布式日志收集和聚合系统。官网
+Kibana：可视化日志和时间戳数据。官网
+Logstash：管理事件和日志的工具。官网
+
+监控
+Cacti：基于Web的网络监控和图形工具。官网
+Zabbix：监控网络和应用的企业级软件。官网
+
+度量和度量收集
+Collectd：系统统计收集守护进程。官网
+Ganglia：基于RRD用于网格和/或集群的服务器的高性能、可伸缩监控设备。兼容Graphite，使用一个单一的收集进程。官网
+Grafana：一个Graphite或InfluxDB仪表盘和图形编辑器。官网
+
+NOSQL
+NOSQL数据库
+
+列族
+Apache HBase：Hadoop数据库，一个分布式的大数据存储。官网
+Cassandra：分布式数据库管理系统，设计用于处理大量数据跨多个服务器。官网
+Hypertable：基于c++的bigtable DBMS,节省通信，可独立或在Hadoop类似的分布式FS上运行。官网
+文档存储
+CouchDB：易于使用,多主机复制的面向文档的数据库系统。官网
+ElasticSearch：基于Java的数据库,受欢迎的日志聚合,和电子邮件归档项目。官网
+MongoDB：另一个面向文档的数据库系统。官网
+RavenDB：具有ACID/事物功能的基于文档的数据库。官网
+RethinkDB：开源分布式文档存储数据库，关注JSON。官网
+FlockDB：Twitter分布式，容错图数据库。官网
+Neo4j：开源图数据库。官网
+键值
+LevelDB：Google高性能键值数据库。官网
+Redis：支持网络，基于内存，键值，亦可持久化数据库。官网
+Riak：另一个容错的键值NoSQL数据库。官网
+NoSQL服务器比较: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+
+打包
+fpm：万能的多格式包创建器。官网
+omnibus-ruby：全栈，跨发行版的包管理软件（Ruby）。官网
+packman：全栈，跨发行版的包管理软件（Python）。官网
+tito：为git项目构建RPM。官网
+队列
+BeanstalkD：一个简单快速的工作队列。官网
+Gearman：快速的多语言队列或任务处理平台。官网
+NSQ：实时分发的消息平台。官网
+RabbitMQ：健壮的，全功能，跨发行版的队列系统。官网
+ZeroMQ：轻量级队列系统。官网
+RDBMS
+关系数据库管理系统
+
+Firebird：真正的全球开源数据库。官网
+Galera：Galera MySQL集群是一个易于使用的高可用性解决方案，具有很高的系统正常运行时间,没有数据丢失,为未来的增长提供可伸缩性。官网
+MariaDB：MySQL的社区开发分支。官网
+MySQL：非常流行的RDBMS服务器。官网
+Percona Server：增强的，可替换MySQL。官网
+PostgreSQL：对象关系数据库管理系统（ORDBMS)。官网
+PostgreSQL-XL：基于PostgreSQL的可伸缩开源数据库集群。官网
+SQLite：自包容，弱服务器，零配置，支持事务的SQL DBS实现库。官网
+安全
+安全工具
+
+Consul：Consule是伊戈尔服务发现，监控和配置的工具。官网
+ZooKeeper：ZooKeeper是一个集中的服务，用于维护配置信息，命名，提供分布式同步和组服务。官网
+
+软件容器
+Docker：给开发者和系统管理员构建，发布和运行分布式应用程序的开放平台。官网
+
+项目管理
+GitLab：用Rbuy编写的GitHub的克隆。官网
+
+Apache：最流行的web服务器。官网
+Cherokee：轻量级，高性能的web服务器/反向代理。官网
+Lighttpd：speed-critical环境下更优化的web服务器。官网
+Nginx：反向代理，负载均衡器，HTTP缓存和web服务器。官网
+uWSGI：uWSGI项目，目标在开发一个构建主机服务的全栈。官网
+Web性能
+
+HAProxy：负载均衡，SSL卸载和性能优化，压缩和通用web路由。官网
+Varnish：基于HTTP的web应用加速器，关注内存优化和压缩。官网
