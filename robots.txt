@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https:///huliangfei.github.io/sitemap.xml

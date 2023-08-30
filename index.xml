@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Modern Documentation Theme on</title><link>https:///huliangfei.github.io/</link><description>Recent content in Modern Documentation Theme on</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>Copyright (c) 2020-2021 Henk Verlinde</copyright><lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate><atom:link href="https:///huliangfei.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog</title><link>https:///huliangfei.github.io/blog/</link><pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate><guid>https:///huliangfei.github.io/blog/</guid><description/></item><item><title>Docs</title><link>https:///huliangfei.github.io/docs/</link><pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate><guid>https:///huliangfei.github.io/docs/</guid><description/></item><item><title/><link>https:///huliangfei.github.io/book_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https:///huliangfei.github.io/book_list/</guid><description>书籍情况 #
+=========
+2017 #</description></item><item><title/><link>https:///huliangfei.github.io/cutrict/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https:///huliangfei.github.io/cutrict/</guid><description>不忘初心 #
+每个人都曾沐浴过星光，有过美好的愿景 肩负使命，让心灵保持纯净透明，守住夜空中最亮的星 星光只会照进透明的心 你是我的命运 #
+文化的定义: #
+根植于內心的修養 無需提醒的自覺 以约束为前提的自由 為別人著想的善良</description></item><item><title/><link>https:///huliangfei.github.io/sysadmin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https:///huliangfei.github.io/sysadmin/</guid><description>#系统管理员工具集
+#
+- 1
+- 2
+- 3
+** 操作系统：Centos,Ubuntu,Redhat ** 网站服务：nginx,apache,php,tomcat,IIS 数据 库：MySQL,MariaDB,Grara,PostgreSQL DB中间件： 代理相关：lvs,keepalived,haproxy,nginx,heartbeat 网站缓存：squid,nginx,varnish NOSQL库：Redis,Memcached,MongoDB,HBase,Cassandra,CouchDB 存储相关：Nfs,Ceph, 版本管理：svn,git 监控报警：zabbix,grafara+inforDB 域名解析：bind, 同步软件：scp,rsync,inotify,sersync,drbd,syncthing 批量管理：Ansible,Saltstack,puppet 虚拟 化：kvm,xen 云计 算：openstack,docker,cloudstack 统一认证：openldap 队列工具：RabbitMQ, 打包发布：jenkins 测试软件：ab,JMeter,Webbench,LoadRunner,http_load,tcpcopy 带宽测试：smokeping 性能测试：dd, fio(IOPS测试),iozone(磁盘测试),iometer 日志相关：flume,ELK(Elasticsearch+Logstash+Kibana) 无人值守：kickstart,cobbler 软件安装：rpm,yum（设计rpm包定制及yum仓库构建） 大数据：HDFS,Hive,Hbase,Zookeeper,Pig,Spark,Mahout,flume,sqoop 开发语言：Shell,Python,
+备份 #
+backup exec (商業)
+云计算 #
+CloudStack：创建，管理和部署基础云服务的云计算软件。官网 Cobbler：Cobbler是一个Linux安装服务器，允许快速地构建网络安装环境。官网 Mesos：开发和运行能效高的分布式系统。官网 OpenNebula：一个用于系统管理员和研发运维的用户驱动的云管理平台。官网 OpenStack：构建私有和开放云的开源软件。官网 OpenShift origin: 构建PAAS平台
+云存储 nextCloud：提供你的文件的统一访问，通过web，你的电脑和你的移动设备。官网 ownCloud：提供你的文件的统一访问，通过web，你的电脑和你的移动设备。官网 Seafile：另一个开源的云存储解决方案。官网 Syncthing：一个用于私有，加密和身份认证数据的开源系统。官网
+配置管理数据库 iTop：一个完全开源的，ITIL,基于web的服务管理工具。官网 Ralph：用于大型数据中心或较小本地网络的资产管理，DICM和CMDB系统。官网
+配置管理 Ansible：Python编写的，通过SSH管理节点。官网 Chef：Rbuy和Erlang编写，使用纯RubyDSL。官网 Puppet：Ruby编写，使用Puppet声明语言或Rbuy DSL。官网 Salt：Python编写。官网
+持续继承和持续部署 GitLab CI：基于rbuy。他们也提供GitLab用于管理git存储库。官网 Jenkins：一个可扩展的开源持续集成服务器。官网</description></item></channel></rss>
